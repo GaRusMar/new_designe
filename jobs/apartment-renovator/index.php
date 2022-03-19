@@ -6,21 +6,6 @@ include __DIR__ . "/../../assets/inc/header.php";
 
 <section class="section vacancy">
     <div class="container">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
         <div class="vacancy__wrapper">
             <h1 class="vacancy__title title wow fadeInUp">
                 <span>Отдел производства</span>
