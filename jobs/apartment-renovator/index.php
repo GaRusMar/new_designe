@@ -3,8 +3,24 @@ $title = 'Вакансия "Мастер по ремонту квартир" в 
 $description = "Требуется мастер по ремонту квартир для реализации работ на объектах. Ведение объектов по ремонту квартир в Москве, контроль соблюдения сроков, качества выполнения работ, соблюдения стандартов компании. Оплата каждые 7-10 дней";
 include __DIR__ . "/../../assets/inc/header.php";
 ?>
+
 <section class="section vacancy">
     <div class="container">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         <div class="vacancy__wrapper">
             <h1 class="vacancy__title title wow fadeInUp">
                 <span>Отдел производства</span>
