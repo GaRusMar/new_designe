@@ -17,7 +17,7 @@
                     <p class="form__politic-description">
                         Настоящим подтверждаю, что я<br/>
                         ознакомлен и согласен
-                        <a href="/policy">
+                        <a href="/politika-obrabotki-personalnyh-dannyh">
                             с политикой<br/>
                             обработки персональных данных.
                         </a>
