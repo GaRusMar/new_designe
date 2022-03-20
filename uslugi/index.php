@@ -21,7 +21,7 @@ include __DIR__ . "/../assets/inc/header.php";
                     <div class="item__description">Визуальное представление вашего будущего интерьера.</div>
                     <div class="item__price">от 200 руб./кв.м.</div>
                 </a>
-                <a href="/drawings" class="item item--hover-purple wow fadeInUp">
+                <a href="/chertezhi" class="item item--hover-purple wow fadeInUp">
                     <h2 class="item__title">чертежи</h2>
                     <div class="item__description">
                         Чертежная документация отражает пошагово, как нужно проводить ремонтные работы по конкретному проекту.

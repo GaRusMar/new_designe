@@ -218,7 +218,7 @@ include __DIR__ . "/assets/inc/header.php";
                             Консультирование заказчика; рабочие чертежи.
                         </div>
                     </div>
-                    <a href="/drawings" class="button">Выбрать услугу</a>
+                    <a href="/chertezhi" class="button">Выбрать услугу</a>
                 </div>
             </div>
             <div class="services__buttons wow fadeInUp">
