@@ -108,7 +108,7 @@ include __DIR__ . "/assets/inc/header.php";
         <div class="container">
             <h2 class="work__title title title--center wow fadeInUp">Последние работы</h2>
             <div class="work__list">
-                <a href="/projects/dizayn-spalni-v-stile-modern-na-taganskoy" class="work__item work__item--two-widths wow fadeInUp" data-wow-delay="0s" style="background-image: url(/assets/img/works-list/1.png)">
+                <a href="/vse-dizayn-proekty/dizayn-spalni-v-stile-modern-na-taganskoy" class="work__item work__item--two-widths wow fadeInUp" data-wow-delay="0s" style="background-image: url(/assets/img/works-list/1.png)">
                     <h3 class="work__title">
                         Дизайн спальни в стиле
                         <br/>
@@ -120,7 +120,7 @@ include __DIR__ . "/assets/inc/header.php";
                         <div class="work__tag">Визуализация</div>
                     </div>
                 </a>
-                <a href="/projects/podbor-materialov-dlya-vannoy-komnaty-v-stile-loft" class="work__item wow fadeInUp" data-wow-delay="0.1s" style="background-image: url(/assets/img/works-list/2.png)">
+                <a href="/vse-dizayn-proekty/podbor-materialov-dlya-vannoy-komnaty-v-stile-loft" class="work__item wow fadeInUp" data-wow-delay="0.1s" style="background-image: url(/assets/img/works-list/2.png)">
                     <h3 class="work__title">Ванная комната в стиле Лофт на Машиностроительной</h3>
                     <div class="work__tags">
                         <div class="work__tag">Ванная</div>
@@ -128,7 +128,7 @@ include __DIR__ . "/assets/inc/header.php";
                         <div class="work__tag">Дополнительные услуги</div>
                     </div>
                 </a>
-                <a href="/projects/dizayn-kuhni-v-yaponskom-stile-na-tverskoy" class="work__item wow fadeInUp" data-wow-delay="0.2s" style="background-image: url(/assets/img/works-list/3.png)">
+                <a href="/vse-dizayn-proekty/dizayn-kuhni-v-yaponskom-stile-na-tverskoy" class="work__item wow fadeInUp" data-wow-delay="0.2s" style="background-image: url(/assets/img/works-list/3.png)">
                     <h3 class="work__title">Дизайн кухни в Японском стиле на Тверской</h3>
                     <div class="work__tags">
                         <div class="work__tag">Кухня</div>
@@ -136,14 +136,14 @@ include __DIR__ . "/assets/inc/header.php";
                         <div class="work__tag">Планировочные решения</div>
                     </div>
                 </a>
-                <a href="/projects/chertezhi-odnokomnatnoy-kvartiry-na-leningradskoy" class="work__item work__item--only-desktop wow fadeInUp" data-wow-delay="0.1s" style="background-image: url(/assets/img/works-list/4.png)">
+                <a href="/vse-dizayn-proekty/chertezhi-odnokomnatnoy-kvartiry-na-leningradskoy" class="work__item work__item--only-desktop wow fadeInUp" data-wow-delay="0.1s" style="background-image: url(/assets/img/works-list/4.png)">
                     <h3 class="work__title work__title--black">Чертежи однокомнатной квартиры на Ленинградской</h3>
                     <div class="work__tags">
                         <div class="work__tag">1-комнатная</div>
                         <div class="work__tag">Чертежи</div>
                     </div>
                 </a>
-                <a href="/projects/detskaya-komnata-v-stile-art-deko-na-koneva" class="work__item work__item--only-desktop wow fadeInUp" data-wow-delay="0.2s" style="background-image: url(/assets/img/works-list/5.png)">
+                <a href="/vse-dizayn-proekty/detskaya-komnata-v-stile-art-deko-na-koneva" class="work__item work__item--only-desktop wow fadeInUp" data-wow-delay="0.2s" style="background-image: url(/assets/img/works-list/5.png)">
                     <h3 class="work__title">Детская комната в стиле Арт-деко на Конева</h3>
                     <div class="work__tags">
                         <div class="work__tag">Детская</div>
@@ -151,7 +151,7 @@ include __DIR__ . "/assets/inc/header.php";
                         <div class="work__tag">Визуализация</div>
                     </div>
                 </a>
-                <a href="/projects/dizayn-kabineta-v-stile-minimalizm-na-karla-marksa" class="work__item work__item--only-desktop wow fadeInUp" data-wow-delay="0.1s" style="background-image: url(/assets/img/works-list/6.png)">
+                <a href="/vse-dizayn-proekty/dizayn-kabineta-v-stile-minimalizm-na-karla-marksa" class="work__item work__item--only-desktop wow fadeInUp" data-wow-delay="0.1s" style="background-image: url(/assets/img/works-list/6.png)">
                     <h3 class="work__title">Дизайн офиса в стиле Минимализм на Карла Маркса</h3>
                     <div class="work__tags">
                         <div class="work__tag">Офис</div>
@@ -159,7 +159,7 @@ include __DIR__ . "/assets/inc/header.php";
                         <div class="work__tag">Полный проект</div>
                     </div>
                 </a>
-                <a href="/projects/dizayn-vannoy-komnaty-v-stile-minimalizm-na-bumazhnom-proezde-22"
+                <a href="/vse-dizayn-proekty/dizayn-vannoy-komnaty-v-stile-minimalizm-na-bumazhnom-proezde-22"
                    class="work__item work__item--two-widths work__item--only-desktop wow fadeInUp" data-wow-delay="0.2s" style="background-image: url(/assets/img/works-list/7.png)">
                     <h3 class="work__title work__title--black">
                         Дизайн ванной комнаты
