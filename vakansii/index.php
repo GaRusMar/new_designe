@@ -35,7 +35,7 @@ include __DIR__ . "/../assets/inc/header.php";
                         <div class="item__arrow"></div>
                     </div>
                 </a>
-                <a href="/vakansii/electrician" class="item wow fadeInLeft" data-wow-delay="0.4s">
+                <a href="/vakansii/elektrik-g-moskva" class="item wow fadeInLeft" data-wow-delay="0.4s">
                     <div class="item__department">Отдел производства</div>
                     <div class="item__wrap">
                         <h2 class="item__job">Электрик (г. Москва)</h2>
