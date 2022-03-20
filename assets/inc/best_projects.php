@@ -42,7 +42,7 @@
                     <div class="work__tag">Дополнительные услуги</div>
                 </div>
             </a>
-            <a href="/projects/loft_style_bathroom/" class="work__item work__item--only-desktop wow fadeInUp" data-wow-delay="0.2s" style="background-image: url(/assets/img/works-list/8.jpg)">
+            <a href="/projects/dizayn-vannoy-komnaty-v-stile-loft-na-sadovom-kolce/" class="work__item work__item--only-desktop wow fadeInUp" data-wow-delay="0.2s" style="background-image: url(/assets/img/works-list/8.jpg)">
                 <h3 class="work__title work__title--black">
                     Дизайн ванной комнаты в стиле Лофт на Садовом кольце
                 </h3>

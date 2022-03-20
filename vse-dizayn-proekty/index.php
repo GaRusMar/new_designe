@@ -91,7 +91,7 @@ include __DIR__ . "/../assets/inc/header.php";
                         <div class="work__tag">Чертежи</div>
                     </div>
                 </a>
-                <a href="/projects/loft_style_bathroom" class="work__item wow" data-wow-delay="0s" style="background-image: url(/assets/img/works-list/8.jpg)">
+                <a href="/projects/dizayn-vannoy-komnaty-v-stile-loft-na-sadovom-kolce" class="work__item wow" data-wow-delay="0s" style="background-image: url(/assets/img/works-list/8.jpg)">
                     <h3 class="work__title work__title--black">
                         Дизайн ванной комнаты в стиле Лофт на Садовом кольце
                     </h3>
@@ -101,7 +101,7 @@ include __DIR__ . "/../assets/inc/header.php";
                         <div class="work__tag">Планировочное решение</div>
                     </div>
                 </a>
-                <a href="/projects/bathroom_design_lubyanka" class="work__item wow" data-wow-delay="0s" style="background-image: url(/assets/img/works-list/10.png)">
+                <a href="/projects/polnyy-proekt-spalni-v-stile-minimalizm-na-lubyanke" class="work__item wow" data-wow-delay="0s" style="background-image: url(/assets/img/works-list/10.png)">
                     <h3 class="work__title">
                         Полный дизайн-проект спальни в стиле Минимализм на Лубянке
                     </h3>
