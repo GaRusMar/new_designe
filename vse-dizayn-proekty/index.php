@@ -122,7 +122,7 @@ include __DIR__ . "/../assets/inc/header.php";
                         <div class="work__tag">Дополнительные услуги</div>
                     </div>
                 </a>
-                <a href="/projects/electric_project" class="work__item wow" data-wow-delay="0s" style="background-image: url(/assets/img/works-list/12.png)">
+                <a href="/projects/elektroproekt-detskoy-komnaty-na-znamenke" class="work__item wow" data-wow-delay="0s" style="background-image: url(/assets/img/works-list/12.png)">
                     <h3 class="work__title">
                         Электропроект детской комнаты на Знаменке
                     </h3>
