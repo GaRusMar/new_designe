@@ -175,7 +175,7 @@ include __DIR__ . "/assets/inc/header.php";
                     </div>
                 </a>
             </div>
-            <a href="/portfolio" class="work__btn btn btn--more wow fadeInUp">Посмотреть все работы</a>
+            <a href="/vse-dizayn-proekty" class="work__btn btn btn--more wow fadeInUp">Посмотреть все работы</a>
         </div>
     </section>
     <section class="section services">

@@ -36,7 +36,7 @@
                     <ul>
                         <li><a href="/o-kompanii">о компании</a></li>
                         <li><a href="/uslugi">услуги</a></li>
-                        <li><a href="/portfolio">портфолио</a></li>
+                        <li><a href="/vse-dizayn-proekty">портфолио</a></li>
                         <li><a href="/jobs">вакансии</a></li>
                         <li><a href="/contacts">контакты</a></li>
                     </ul>
