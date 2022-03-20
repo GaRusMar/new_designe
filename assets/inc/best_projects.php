@@ -32,7 +32,7 @@
                     <div class="work__tag">Полный проект</div>
                 </div>
             </a>
-            <a href="/projects/selection_materials/" class="work__item work__item--only-tablet wow fadeInUp" data-wow-delay="0.1s" style="background-image: url(/assets/img/works-list/2.png)">
+            <a href="/projects/podbor-materialov-dlya-vannoy-komnaty-v-stile-loft/" class="work__item work__item--only-tablet wow fadeInUp" data-wow-delay="0.1s" style="background-image: url(/assets/img/works-list/2.png)">
                 <h3 class="work__title">
                     Ванная комната в стиле Лофт на Машиностроительной
                 </h3>
