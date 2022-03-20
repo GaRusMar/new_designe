@@ -34,11 +34,11 @@
                 </div>
                 <nav class="header__nav">
                     <ul>
-                        <li><a href="/o-kompanii">о компании</a></li>
-                        <li><a href="/uslugi">услуги</a></li>
-                        <li><a href="/vse-dizayn-proekty">портфолио</a></li>
-                        <li><a href="/vakansii">вакансии</a></li>
-                        <li><a href="/kontakty">контакты</a></li>
+                        <li><a href="/o-kompanii/">о компании</a></li>
+                        <li><a href="/uslugi/">услуги</a></li>
+                        <li><a href="/vse-dizayn-proekty/">портфолио</a></li>
+                        <li><a href="/vakansii/">вакансии</a></li>
+                        <li><a href="/kontakty/">контакты</a></li>
                     </ul>
                 </nav>
             </div>
