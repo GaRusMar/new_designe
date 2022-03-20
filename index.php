@@ -204,7 +204,7 @@ include __DIR__ . "/assets/inc/header.php";
                             3D визуализация (по 1 виду помещения)
                         </div>
                     </div>
-                    <a href="/visualization" class="button">Выбрать услугу</a>
+                    <a href="/dizayn-proekt-vizualizaciya" class="button">Выбрать услугу</a>
                 </div>
                 <div class="services__item wow fadeInUp" data-wow-delay="0.2s">
                     <div class="img img--blueprints"></div>

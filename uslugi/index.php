@@ -16,7 +16,7 @@ include __DIR__ . "/../assets/inc/header.php";
                     </div>
                     <div class="item__price">от 200 руб./кв.м.</div>
                 </a>
-                <a href="/visualization" class="item item--hover-blue wow fadeInUp">
+                <a href="/dizayn-proekt-vizualizaciya" class="item item--hover-blue wow fadeInUp">
                     <h2 class="item__title">визуализация</h2>
                     <div class="item__description">Визуальное представление вашего будущего интерьера.</div>
                     <div class="item__price">от 200 руб./кв.м.</div>
