@@ -14,7 +14,7 @@
                     <div class="work__tag">Визуализация</div>
                 </div>
             </a>
-            <a href="/projects/сhildren_room/" class="work__item work__item--only-desktop wow fadeInUp" data-wow-delay="0.1s" style="background-image: url(/assets/img/works-list/5.png)">
+            <a href="/projects/detskaya-komnata-v-stile-art-deko-na-koneva/" class="work__item work__item--only-desktop wow fadeInUp" data-wow-delay="0.1s" style="background-image: url(/assets/img/works-list/5.png)">
                 <h3 class="work__title">Детская комната в стиле Арт-деко на Конева</h3>
                 <div class="work__tags">
                     <div class="work__tag">Детская</div>

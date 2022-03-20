@@ -136,14 +136,14 @@ include __DIR__ . "/assets/inc/header.php";
                         <div class="work__tag">Планировочные решения</div>
                     </div>
                 </a>
-                <a href="/projects/drawings_apartment_leningradskaya" class="work__item work__item--only-desktop wow fadeInUp" data-wow-delay="0.1s" style="background-image: url(/assets/img/works-list/4.png)">
+                <a href="/projects/chertezhi-odnokomnatnoy-kvartiry-na-leningradskoy" class="work__item work__item--only-desktop wow fadeInUp" data-wow-delay="0.1s" style="background-image: url(/assets/img/works-list/4.png)">
                     <h3 class="work__title work__title--black">Чертежи однокомнатной квартиры на Ленинградской</h3>
                     <div class="work__tags">
                         <div class="work__tag">1-комнатная</div>
                         <div class="work__tag">Чертежи</div>
                     </div>
                 </a>
-                <a href="/projects/сhildren_room" class="work__item work__item--only-desktop wow fadeInUp" data-wow-delay="0.2s" style="background-image: url(/assets/img/works-list/5.png)">
+                <a href="/projects/detskaya-komnata-v-stile-art-deko-na-koneva" class="work__item work__item--only-desktop wow fadeInUp" data-wow-delay="0.2s" style="background-image: url(/assets/img/works-list/5.png)">
                     <h3 class="work__title">Детская комната в стиле Арт-деко на Конева</h3>
                     <div class="work__tags">
                         <div class="work__tag">Детская</div>
