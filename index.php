@@ -108,7 +108,7 @@ include __DIR__ . "/assets/inc/header.php";
         <div class="container">
             <h2 class="work__title title title--center wow fadeInUp">Последние работы</h2>
             <div class="work__list">
-                <a href="/projects/bedroom_design" class="work__item work__item--two-widths wow fadeInUp" data-wow-delay="0s" style="background-image: url(/assets/img/works-list/1.png)">
+                <a href="/projects/dizayn-spalni-v-stile-modern-na-taganskoy" class="work__item work__item--two-widths wow fadeInUp" data-wow-delay="0s" style="background-image: url(/assets/img/works-list/1.png)">
                     <h3 class="work__title">
                         Дизайн спальни в стиле
                         <br/>
