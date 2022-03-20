@@ -28,7 +28,7 @@ include __DIR__ . "/../assets/inc/header.php";
                     </div>
                     <div class="item__price">от 1000 руб./кв.м.</div>
                 </a>
-                <a href="/full-project" class="item item--hover-red wow fadeInUp">
+                <a href="/polnyy-proekt" class="item item--hover-red wow fadeInUp">
                     <h2 class="item__title">полный проект</h2>
                     <div class="item__description">
                         Включает все проекты (визуализация; чертежи) и контроль реализации проекта дизайнером.
