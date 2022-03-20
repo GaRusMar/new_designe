@@ -6,7 +6,7 @@ include __DIR__ . "/../assets/inc/header.php";
     <section class="section services-list">
         <div class="container">
             <h1 class="services-list__title wow fadeInUp">
-                Услуги!
+                Услуги
             </h1>
             <div class="services-list__list">
                 <a href="/planning-solutions" class="item item--hover-dark-green wow fadeInUp">

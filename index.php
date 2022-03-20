@@ -222,7 +222,7 @@ include __DIR__ . "/assets/inc/header.php";
                 </div>
             </div>
             <div class="services__buttons wow fadeInUp">
-                <a href="/services" class="services__button btn btn--more">Посмотреть все услуги</a>
+                <a href="/uslugi" class="services__button btn btn--more">Посмотреть все услуги</a>
                 <div class="services__arrows">
                     <button type="button" class="services__arrow services__arrow-prev"></button>
                     <button type="button" class="services__arrow services__arrow-next"></button>
