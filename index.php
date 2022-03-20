@@ -192,7 +192,7 @@ include __DIR__ . "/assets/inc/header.php";
                         <div class="item">План возведения стен</div>
                         <div class="item">План расстановки мебели</div>
                     </div>
-                    <a href="/planning-solutions" class="button">Выбрать услугу</a>
+                    <a href="/planirovochnye-resheniya" class="button">Выбрать услугу</a>
                 </div>
                 <div class="services__item wow fadeInUp" data-wow-delay="0.1s">
                     <div class="img img--visualization"></div>

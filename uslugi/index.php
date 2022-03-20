@@ -9,7 +9,7 @@ include __DIR__ . "/../assets/inc/header.php";
                 Услуги
             </h1>
             <div class="services-list__list">
-                <a href="/planning-solutions" class="item item--hover-dark-green wow fadeInUp">
+                <a href="/planirovochnye-resheniya" class="item item--hover-dark-green wow fadeInUp">
                     <h2 class="item__title">планировочные решения</h2>
                     <div class="item__description">
                         План с расстановкой мебели и сантехнического оборудования, разработанный с учетом ваших пожеланий и потребностей.
