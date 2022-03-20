@@ -34,7 +34,7 @@
                 </div>
                 <nav class="header__nav">
                     <ul>
-                        <li><a href="/about">о компании</a></li>
+                        <li><a href="/o-kompanii">о компании</a></li>
                         <li><a href="/services">услуги</a></li>
                         <li><a href="/portfolio">портфолио</a></li>
                         <li><a href="/jobs">вакансии</a></li>
