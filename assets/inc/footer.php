@@ -8,7 +8,7 @@
                         Пресненская набережная 12, Башня Федерация Восток, этаж 42, офис&nbsp;4203
                     </div>
                 </div>
-                <a href="/contacts" class="column__title">Контакты</a>
+                <a href="/kontakty" class="column__title">Контакты</a>
             </div>
             <div class="column column--2">
                 <div class="column__list">

@@ -38,7 +38,7 @@
                         <li><a href="/uslugi">услуги</a></li>
                         <li><a href="/vse-dizayn-proekty">портфолио</a></li>
                         <li><a href="/vakansii">вакансии</a></li>
-                        <li><a href="/contacts">контакты</a></li>
+                        <li><a href="/kontakty">контакты</a></li>
                     </ul>
                 </nav>
             </div>
