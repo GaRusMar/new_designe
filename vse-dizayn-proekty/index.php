@@ -58,7 +58,7 @@ include __DIR__ . "/../assets/inc/header.php";
                         <div class="work__tag">Визуализация</div>
                     </div>
                 </a>
-                <a href="/projects/сabinet_design" class="work__item wow fadeInUp"
+                <a href="/projects/dizayn-kabineta-v-stile-minimalizm-na-karla-marksa" class="work__item wow fadeInUp"
                    data-wow-delay="0s" style="background-image: url(/assets/img/works-list/6.png)">
                     <h3 class="work__title">
                         Дизайн офиса в стиле Минимализм на Карла Маркса
