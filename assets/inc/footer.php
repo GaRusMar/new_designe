@@ -8,7 +8,7 @@
                         Пресненская набережная 12, Башня Федерация Восток, этаж 42, офис&nbsp;4203
                     </div>
                 </div>
-                <a href="/kontakty" class="column__title">Контакты</a>
+                <a href="/kontakty/" class="column__title">Контакты</a>
             </div>
             <div class="column column--2">
                 <div class="column__list">
@@ -19,7 +19,7 @@
             </div>
             <div class="column column--3">
                 <div class="flex flex-wrap flex-center flex-wrap flex-content-between">
-                    <a href="/politika-obrabotki-personalnyh-dannyh">
+                    <a href="/politika-obrabotki-personalnyh-dannyh/">
                         Политика обработки<br/>
                         персональных данных
                     </a>
@@ -58,7 +58,7 @@
                             <p class="form__politic-description form__politic-description--modal">
                                 Настоящим подтверждаю, что я
                                 ознакомлен и согласен
-                                <a href="/politika-obrabotki-personalnyh-dannyh">
+                                <a href="/politika-obrabotki-personalnyh-dannyh/">
                                     с политикой <br>
                                     обработки персональных данных.
                                 </a>

@@ -33,22 +33,6 @@ include 'utm2.php';
                 <span>студия</span>
                 <span>дизайнов</span>
             </a>
-            <!--<div class="header__menu">
-                <div class="header__gamburger">
-                    <i></i>
-                    <i></i>
-                    <i></i>
-                </div>
-                <nav class="header__nav">
-                    <ul>
-                        <li><a href="/about">о компании</a></li>
-                        <li><a href="/services">услуги</a></li>
-                        <li><a href="/portfolio">портфолио</a></li>
-                        <li><a href="/jobs">вакансии</a></li>
-                        <li><a href="/contacts">контакты</a></li>
-                    </ul>
-                </nav>
-            </div>-->
         </div>
     </header>
     <div class="content">

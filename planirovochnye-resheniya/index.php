@@ -9,7 +9,7 @@ include __DIR__ . "/../assets/inc/header.php";
                 <div class="service__center">
                     <h1 class="service__title">планировочные
                         решения</h1>
-                    <a href="/dizayn-proekt-vizualizaciya" class="service__btn btn btn--more">
+                    <a href="/dizayn-proekt-vizualizaciya/" class="service__btn btn btn--more">
                         визуализация
                     </a>
                 </div>
