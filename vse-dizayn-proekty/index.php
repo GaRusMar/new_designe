@@ -111,7 +111,7 @@ include __DIR__ . "/../assets/inc/header.php";
                         <div class="work__tag">Полный проект</div>
                     </div>
                 </a>
-                <a href="/projects/selection_materials_novy_arbat" class="work__item work__item--two-widths wow" data-wow-delay="0s" style="background-image: url(/assets/img/works-list/11.jpg)">
+                <a href="/projects/podbor-materialov-dlya-kuhni-v-stile-hay-teks-na-novom-arbate" class="work__item work__item--two-widths wow" data-wow-delay="0s" style="background-image: url(/assets/img/works-list/11.jpg)">
                     <h3 class="work__title">
                         Подбор материалов для кухни<br>
                         в стиле Хай-Текс на Новом Арбате
