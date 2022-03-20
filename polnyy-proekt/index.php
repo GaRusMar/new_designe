@@ -8,7 +8,7 @@ include __DIR__ . "/../assets/inc/header.php";
             <div class="service__wrapper background-red wow fadeInUp">
                 <div class="service__center">
                     <h1 class="service__title"><span>полный проект</span></h1>
-                    <a href="/additional-services" class="service__btn btn btn--more btn--white">
+                    <a href="/dopolnitelnye-uslugi" class="service__btn btn btn--more btn--white">
                         дополнительные
                         <br>
                         услуги

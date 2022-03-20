@@ -35,7 +35,7 @@ include __DIR__ . "/../assets/inc/header.php";
                     </div>
                     <div class="item__price">от 2200 руб./кв.м.</div>
                 </a>
-                <a href="/additional-services" class="item item--hover-green wow fadeInUp">
+                <a href="/dopolnitelnye-uslugi" class="item item--hover-green wow fadeInUp">
                     <h2 class="item__title">дополнительные услуги</h2>
                     <div class="item__description">
                         Если Вам требуется какая либо отдельная услуга, для нас это не проблема. Если вы не нашли в списке, вы можете позвонить нам и уточнить возможность оказать услугу которая требуется вам
