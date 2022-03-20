@@ -7,7 +7,7 @@ include __DIR__ . "/../assets/inc/header.php";
         <div class="container">
             <h1 class="vacancies__title title title--center wow fadeInUp">Вакансии</h1>
             <div class="vacancies__list">
-                <a href="/vakansii/interior_designer" class="item wow fadeInLeft" data-wow-delay="0s">
+                <a href="/vakansii/dizayner-intererov-g-moskva" class="item wow fadeInLeft" data-wow-delay="0s">
                     <div class="item__department">В офис</div>
                     <div class="item__wrap">
                         <h2 class="item__job">Дизайнер интерьеров (г. Москва)</h2>
