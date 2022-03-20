@@ -169,7 +169,7 @@ include __DIR__ . "/../assets/inc/header.php";
             <div class="get-team__wrapper">
                 <div class="get-team__center">
                     <h2 class="get-team__title">Стань частью нашей команды</h2>
-                    <a href="/jobs" class="get-team__button btn btn--more">
+                    <a href="/vakansii" class="get-team__button btn btn--more">
                         вакансии
                     </a>
                 </div>
