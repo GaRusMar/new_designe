@@ -128,7 +128,7 @@ include __DIR__ . "/assets/inc/header.php";
                         <div class="work__tag">Дополнительные услуги</div>
                     </div>
                 </a>
-                <a href="/projects/kitchen_design_tverskaya" class="work__item wow fadeInUp" data-wow-delay="0.2s" style="background-image: url(/assets/img/works-list/3.png)">
+                <a href="/projects/dizayn-kuhni-v-yaponskom-stile-na-tverskoy" class="work__item wow fadeInUp" data-wow-delay="0.2s" style="background-image: url(/assets/img/works-list/3.png)">
                     <h3 class="work__title">Дизайн кухни в Японском стиле на Тверской</h3>
                     <div class="work__tags">
                         <div class="work__tag">Кухня</div>
