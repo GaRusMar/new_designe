@@ -69,7 +69,7 @@ include __DIR__ . "/../assets/inc/header.php";
                         <div class="work__tag">Полный проект</div>
                     </div>
                 </a>
-                <a href="/projects/bathroom_design" class="work__item work__item--two-widths wow fadeInUp"
+                <a href="/projects/dizayn-vannoy-komnaty-v-stile-minimalizm-na-bumazhnom-proezde-22" class="work__item work__item--two-widths wow fadeInUp"
                    data-wow-delay="0.1s" style="background-image: url(/assets/img/works-list/7.png)">
                     <h3 class="work__title work__title--black">
                         Дизайн ванной комнаты<br/>
